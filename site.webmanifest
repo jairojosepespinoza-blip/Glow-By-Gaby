@@ -1,0 +1,21 @@
+{
+  "name": "Glow by Gaby",
+  "short_name": "Glow by Gaby",
+  "description": "Catálogo de belleza, tecnología facial y bienestar.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff8fb",
+  "theme_color": "#f4d7e1",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
